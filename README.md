@@ -61,3 +61,7 @@ root@ubuntu:/tmp# java -jar DecryptExample-1.0-SNAPSHOT.jar druid Obsbr4gd1oVyYr
 root@ubuntu:/tmp# 
 ```
 ![image](https://github.com/user-attachments/assets/39ce54fc-e9c8-4e49-91ec-f126beda4331)
+
+
+## ⚡TODO
+- [ ] 密码转换器，将明文转为密钥key。
