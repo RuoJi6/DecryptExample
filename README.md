@@ -3,6 +3,7 @@
 ```
 root@ubuntu:/tmp# java -jar DecryptExample-1.0-SNAPSHOT.jar 
 DecryptExample by RuoJi v1.0
+GitHub：https://github.com/RuoJi6/DecryptExample
 使用说明：
 java -jar DecryptExample.jar <命令> <加密数据> <密钥 | 密钥文件>
 
